@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm [Idan Elhalwani](https://github.com/Idane)  👋
+  
+A Kotlin/Java Software Developer, an open source enthusiast and part of the [krud.dev](https://krud.dev) open source cooperative.
+  
+### Things I'm working on
 
-<!--
-**Idane/idane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [Ostara](https://github.com/krud-dev/ostara) - a desktop application that provides various features to monitor and interact with Spring Boot Applications via Actuator. ![GitHub last commit](https://img.shields.io/github/last-commit/krud-dev/ostara?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/krud-dev/ostara?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/krud-dev/ostara?style=flat-square")
+* [ShapeShift](https://github.com/krud-dev/shapeshift) - A Kotlin/Java library for intelligent object mapping and conversion between objects. ![GitHub last commit](https://img.shields.io/github/last-commit/krud-dev/shapeshift?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/krud-dev/shapeshift?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/krud-dev/shapeshift?style=flat-square")
 
-Here are some ideas to get you started:
+### Find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [LinkedIn](https://www.linkedin.com/in/idan-elhalwani-69bab2166/)
+* [dev.to](https://dev.to/idane)
+* [Twitter](https://twitter.com/idane_io)
